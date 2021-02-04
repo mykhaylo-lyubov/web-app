@@ -1,0 +1,27 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykhaylo-lyubov/web-app.git"
+  },
+  "keywords": [],
+  "author": "Mykhaylo Lyubov <mykhaylo.lyubov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mykhaylo-lyubov/web-app/issues"
+  },
+  "homepage": "https://github.com/mykhaylo-lyubov/web-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
